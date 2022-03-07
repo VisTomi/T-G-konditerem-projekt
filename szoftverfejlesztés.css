@@ -1,0 +1,55 @@
+head{
+
+
+    
+}
+
+body{
+
+background-image:linear-gradient(to right,yellow,red);
+
+}
+.p1{
+margin-left:20px;
+
+
+}
+.p2{
+    margin-left:20px;
+
+
+}
+.p3{
+border:solid 3px black;
+background-color:rgb(233, 216, 216);
+text-align:center;
+opacity:0.9;
+}
+.p3:hover{
+opacity:3.0;
+
+}
+.p4{
+    border:solid 3px black;
+    background-color:rgb(233, 216, 216);
+    text-align:center;
+    opacity:0.9;
+    }
+    .p4:hover{
+    opacity:3.0;
+    }
+    .p5{
+        border:solid 3px black;
+        background-color:rgb(233, 216, 216);
+        text-align:center;
+        opacity:0.9;
+        }
+        .p5:hover{
+        opacity:3.0;
+        
+        }
+  
+
+
+       
+      

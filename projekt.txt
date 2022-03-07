@@ -1,0 +1,49 @@
+HTMl nyelven kell megírni
+Iskolai gépeken kell írni
+Miről kell csinálni?
+kezdőknek kivitelhezhető
+határidő(Március 14.)
+Milyen gyakorlatok kellenek
+Gyakorlatleírás(Ötlet-5/13)
+Mobilon és tableten megfelelő legyen!
+Megfelelő videó minőség
+9 feladatot kell megjeleníteni
+
+
+Analízis
+fülek:Galéria(videók,képek,nyitva tartás,rólunk)
+
+
+
+kezdő tippek
+Kezdők kisegítése az edzőterembe
+Termékleírás
+Termék helyes használata
+gyakorlatok(szintek)
+QR kód
+Konditeremmel kapcsolatos információk(telefonszám,e-mail,utcaszám,cím,nyitva tartás)
+
+Tervezés
+nyelv:html,css
+
+
+Oldal felállás:
+logó
+fülek
+gyakorlatok,opciók
+A Gym bemutatása
+
+
+
+
+
+
+
+
+
+Konditeremmel kapcsolatos információk(telefonszám,e-mail,utcaszám,cím,nyitva tartás)
+
+
+
+
+
